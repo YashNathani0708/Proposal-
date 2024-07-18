@@ -30,8 +30,8 @@ This repository is licensed under the MIT License. See the LICENSE file for deta
 For any questions or further information, please contact:
 
 - Yash Nathani
-- [Email](mailto:y_natha@live.concordia.ca)
 - Jonathan Sanie
+- [Email](mailto:y_natha@live.concordia.ca)
 ---
 
 This repository serves as a central point for accessing the final version of the ENCS Proposal. It provides all necessary details regarding the project's objectives, methodologies, and expected outcomes, ensuring transparency and accessibility for all stakeholders.
